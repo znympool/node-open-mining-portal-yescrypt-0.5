@@ -1,5 +1,5 @@
 {
 	"name": "GlobalBoost-Y",
-    "symbol": "BSTY",
-    "algorithm": "yescrypt"
+	"symbol": "BSTY",
+	"algorithm": "yescrypt"
 }
